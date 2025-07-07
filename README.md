@@ -130,7 +130,7 @@ Let’s create something beautiful — one div at a time! 🚀
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
   <br/>
-  <em>"Typing like a legend. Panicking like a human." 😹💻</em>
+  <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
 
 > **Yalda:**  
