@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <strong style="color:#9B30FF;">💖 Front-End Developer & WordPress Customizer</strong><br/>
+  <strong style="color:#9B30FF;">❤️‍🔥Front-End Developer & WordPress Customizer</strong><br/>
   <em style="color:#FF1493;">"Passion in pixels, calm in code."</em>
 </p>
 
