@@ -124,7 +124,7 @@ Let’s create something beautiful — one div at a time! 🚀
 
 ## 😼 Meme Vibes
 
-**👯‍♀️ Yalda & Vida**
+**👯‍♀️ Yalda & Vida**🎇
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
