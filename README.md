@@ -244,12 +244,14 @@ to create <span style="color:#9c27b0;font-weight:bold;">digital experiences that
 ## 📈 GitHub Stats
 
 <div align="center" style="margin:30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&icon_color=FF69B4&bg_color=F9F0FF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&bg_color=F9F0FF" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YALDAKHOSHPEY&theme=default&hide_border=true&background=F9F0FF&ring=BA55D3&fire=FF69B4&currStreakLabel=FF69B4&sideNums=4B0082&sideLabels=4B0082" height="150"/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&icon_color=FF69B4&bg_color=F9F0FF" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&bg_color=F9F0FF" height="165" />
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=YALDAKHOSHPEY&theme=default&hide_border=true&background=F9F0FF&ring=BA55D3&fire=FF69B4&currStreakLabel=FF69B4&sideNums=4B0082&sideLabels=4B0082" height="150"/>
+  </div>
 </div>
 
 ---
