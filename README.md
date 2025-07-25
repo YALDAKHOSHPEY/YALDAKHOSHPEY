@@ -18,25 +18,103 @@
 </p>
 
 ---
-## 💫 About Me
 
-Hey there! I’m <strong>Yalda</strong> — a front-end developer with a passion for WordPress and eye-catching UI design.  
-Every line of my code is sprinkled with creativity, precision, and a bit of magic ✨
+## 🌟 Digital Artisan: Yalda
 
-<p align="center">
-  💜 I proudly build and grow alongside my coding twin  
-  <a href="https://github.com/VIDAKHOSHPEY22" style="color:#DDA0DD; text-decoration: none; font-weight: bold;">🌸 Vida</a>,  
-  the brilliant mind who shares my love for turning ideas into vibrant websites.
-</p>
+<div align="center">
 
----
+🎨 **Pixel Perfectionist** | **UI Magician** | **WordPress Whisperer**
 
-### 🎨 What I bring to the browser:
-- 🎯 Pixel-perfect responsive UIs with a touch of WordPress magic  
-- 🌱 Currently leveling up in JavaScript & Python  
-- 💡 Inspired by elegant design, meaningful code, and bold imagination  
+</div>
 
-Let’s create something beautiful — one div at a time! 🚀
+### 🛠️ My Creative Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="40" alt="WordPress"/>
+      <br>
+      <sub><b>WordPress Wizardry</b></sub>
+      <br>
+      <span>Theme Crafting<br>Plugin Alchemy</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" alt="HTML5"/>
+      <br>
+      <sub><b>Front-End Sorcery</b></sub>
+      <br>
+      <span>Semantic HTML5<br>CSS3 Magic</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" alt="JavaScript"/>
+      <br>
+      <sub><b>JS Enchantmen</b></sub>
+      <br>
+      <span>ES6+ Incantations</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" width="40" alt="Adobe XD"/>
+      <br>
+      <sub><b>UI/UX Alchemy</b></sub>
+      <br>
+      <span>Pixel Perfection<br>User Journeys</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/>
+      <br>
+      <sub><b>Design Magic</b></sub>
+      <br>
+      <span>Prototyping<br>Design Systems</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/rocket.png" width="40" alt="Rocket"/>
+      <br>
+      <sub><b>Performance Arts</b></sub>
+      <br>
+      <span>Speed Optimization<br>Lighthouse 100%</span>
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin-top: 20px; font-size: 0.9em; color: #7b1fa2;">
+✨ <i>Every tool mastered, every skill honed - all to create digital magic</i> ✨
+</div>
+
+### 🎯 Design Philosophy:
+```mermaid
+graph TD
+    A[User Needs] --> B(Beautiful Design)
+    A --> C(Intuitive Functionality)
+    B --> D[Delightful Experience]
+    C --> D
+    D --> E[Business Growth]
+```
+
+<div align="center" style="background: linear-gradient(to right, #f3e5f5, #e1bee7); padding: 15px; border-radius: 10px; margin: 20px 0;">
+
+💖 **Twin Synergy**  
+Working in perfect harmony with my brilliant twin  
+<a href="https://github.com/VIDAKHOSHPEY22" style="color:#7b1fa2; font-weight:600; text-decoration:underline dotted;">
+  <img src="https://img.shields.io/badge/Vida's_GitHub-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Vida's GitHub">
+</a>  
+to create <span style="color:#9c27b0;font-weight:bold;">digital experiences that spark joy</span> ✨
+
+</div>
+
+### 🏆 Recent Magic:
+- 🚀 Built a WordPress site loading in <1.2s
+- 🎭 Created an interactive gallery with 0 JS frameworks
+- 🌈 Developed a color accessibility plugin
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YALDAKHOSHPEY)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-9C27B0?style=for-the-badge&logo=wordpress&logoColor=white)](https://yourportfolio.com)
+[![Contact](https://img.shields.io/badge/Let's_Collaborate-FF9800?style=for-the-badge&logo=telegram&logoColor=white)](mailto:hello@example.com)
+
+</div>
 
 ---
 
@@ -131,17 +209,3 @@ Let’s create something beautiful — one div at a time! 🚀
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
-
-> **Yalda:**  
-> *"Coding at 3AM like I’m saving the world...  
-> but it's just a missing semicolon."* 😹  
->
-> **Vida:**  
-> *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
->
-> **Yalda:**  
-> *"Powered by coffee, chaos, and Ctrl+Z."* ☕💻🌀  
->
-> **Vida:**  
-> *"When things get weird, I just call Yalda and say:*  
-> *‘Come on, let’s build a robot and take over GitHub!’"* 🤖👯‍♀️😂💪🏻
