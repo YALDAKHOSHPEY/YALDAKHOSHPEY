@@ -133,17 +133,49 @@ to create <span style="color:#9c27b0;font-weight:bold;">digital experiences that
 
 ## 🧩 Tech Stack
 
-🎨 **Front-End**
-- HTML5, CSS3, JavaScript  
-- Responsive layouts, animations, pixel-perfect design
-
-🪄 **WordPress Magic**
-- Elementor, WooCommerce, SEO  
-- Custom themes & plugins using PHP
-
-🧰 **Tools & Platforms**
-- GitHub, VSCode, XAMPP, LocalWP  
-- Figma for design, Trello for task flow
+<table align="center">
+  <tr>
+    <th colspan="3" style="text-align:center; background-color:#f3e5f5; border-radius:8px 8px 0 0;">
+      <h3 style="margin:8px;color:#7b1fa2;">✨ My Development Toolkit</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" style="border-right:1px solid #e1bee7; border-bottom:1px solid #e1bee7; padding:12px;">
+      <h4>🎨 Front-End</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">
+      <p style="margin-top:8px;font-size:0.9em;">
+      Responsive Design • CSS Animations • Pixel-Perfect UI
+      </p>
+    </td>
+    <td align="center" style="border-right:1px solid #e1bee7; border-bottom:1px solid #e1bee7; padding:12px;">
+      <h4>🪄 WordPress</h4>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WP">
+      <img src="https://img.shields.io/badge/Elementor-9146FF?style=flat&logo=elementor&logoColor=white" alt="Elementor">
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce">
+      <p style="margin-top:8px;font-size:0.9em;">
+      Custom Themes • Plugin Development • SEO Optimization
+      </p>
+    </td>
+    <td align="center" style="border-bottom:1px solid #e1bee7; padding:12px;">
+      <h4>🧰 Development Tools</h4>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode">
+      <p style="margin-top:8px;font-size:0.9em;">
+      LocalWP • XAMPP • Trello • Performance Tools
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center; background-color:#f3e5f5; border-radius:0 0 8px 8px; padding:8px;">
+      <p style="margin:0;font-size:0.9em;color:#7b1fa2;">
+      <i>"Mastering the tools that bring digital visions to life"</i> ✨
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
