@@ -27,6 +27,7 @@
 
 </div>
 
+---
 ### 🛠️ My Creative Arsenal
 
 <table align="center">
@@ -102,6 +103,8 @@ Working in perfect harmony with my brilliant twin
 to create <span style="color:#9c27b0;font-weight:bold;">digital experiences that spark joy</span> ✨
 
 </div>
+
+---
 
 ### 🏆 Recent Magic:
 - 🚀 Built a WordPress site loading in <1.2s
@@ -181,25 +184,73 @@ to create <span style="color:#9c27b0;font-weight:bold;">digital experiences that
 
 ## 🚀 Featured Projects
 
-🌈 **30 Days Front-End Challenge**  
-💡 Daily coding challenge focused on UI magic using **HTML**, **CSS**, and **JavaScript**  
-🔗 [Check it out on GitHub »](https://github.com/YALDAKHOSHPEY/30days-frontend)
+<div align="center" style="margin-bottom:30px;">
+  <h3 style="color:#7b1fa2; border-bottom:2px solid #e1bee7; display:inline-block; padding-bottom:5px;">✨ My Project Showcase ✨</h3>
+</div>
 
-🎓 **CS50x – Harvard**  
-🧠 Hands-on journey through **C**, **Python**, and full-stack fundamentals  
-🔗 [Browse the Repo »](https://github.com/YALDAKHOSHPEY/cs50x)
+<table align="center" width="90%">
+  <tr>
+    <td style="padding:20px; border-radius:10px; background:linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); margin-bottom:20px;">
+      <div style="display:flex; align-items:center; gap:15px;">
+        <div style="font-size:2em; min-width:50px; text-align:center;">🌈</div>
+        <div>
+          <h3 style="margin:0; color:#7b1fa2; font-size:1.2em;">30 Days Front-End Challenge</h3>
+          <p style="margin:8px 0; font-size:0.95em; line-height:1.4;">Daily UI magic with pure front-end sorcery!</p>
+          <div style="display:flex; gap:8px; flex-wrap:wrap; margin-top:10px;">
+            <span style="background:#E34F26; color:white; padding:4px 10px; border-radius:4px; font-size:0.8em;">HTML5</span>
+            <span style="background:#1572B6; color:white; padding:4px 10px; border-radius:4px; font-size:0.8em;">CSS3</span>
+            <span style="background:#F7DF1E; color:black; padding:4px 10px; border-radius:4px; font-size:0.8em;">JavaScript</span>
+          </div>
+        </div>
+      </div>
+      <div style="text-align:center; margin-top:20px;">
+        <a href="https://github.com/YALDAKHOSHPEY/30days-frontend" style="display:inline-block; background:#8A2BE2; color:white; padding:8px 20px; border-radius:6px; text-decoration:none; font-weight:bold; transition:all 0.3s; font-size:0.9em;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 4px 8px rgba(138, 43, 226, 0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+          Explore the Magic →
+        </a>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding:20px; border-radius:10px; background:linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);">
+      <div style="display:flex; align-items:center; gap:15px;">
+        <div style="font-size:2em; min-width:50px; text-align:center;">🎓</div>
+        <div>
+          <h3 style="margin:0; color:#7b1fa2; font-size:1.2em;">CS50x - Harvard Journey</h3>
+          <p style="margin:8px 0; font-size:0.95em; line-height:1.4;">Mastering computer science fundamentals through hands-on projects</p>
+          <div style="display:flex; gap:8px; flex-wrap:wrap; margin-top:10px;">
+            <span style="background:#555555; color:white; padding:4px 10px; border-radius:4px; font-size:0.8em;">C</span>
+            <span style="background:#3776AB; color:white; padding:4px 10px; border-radius:4px; font-size:0.8em;">Python</span>
+            <span style="background:#F7DF1E; color:black; padding:4px 10px; border-radius:4px; font-size:0.8em;">JavaScript</span>
+            <span style="background:#4479A1; color:white; padding:4px 10px; border-radius:4px; font-size:0.8em;">SQL</span>
+          </div>
+        </div>
+      </div>
+      <div style="text-align:center; margin-top:20px;">
+        <a href="https://github.com/YALDAKHOSHPEY/cs50x" style="display:inline-block; background:#8A2BE2; color:white; padding:8px 20px; border-radius:6px; text-decoration:none; font-weight:bold; transition:all 0.3s; font-size:0.9em;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 4px 8px rgba(138, 43, 226, 0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+          Dive Into Code →
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin:30px 0;">
+  <p style="color:#7b1fa2; font-style:italic; font-size:0.95em;">"Every project is a new adventure in problem-solving and creativity"</p>
+</div>
 
 ---
+
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center" style="margin:30px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&icon_color=FF69B4&bg_color=F9F0FF" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&layout=compact&theme=default&hide_border=true&title_color=BA55D3&text_color=4B0082&bg_color=F9F0FF" height="180" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YALDAKHOSHPEY&theme=default&hide_border=true&background=F9F0FF&ring=BA55D3&fire=FF69B4&currStreakLabel=FF69B4&sideNums=4B0082&sideLabels=4B0082" height="150"/>
-</p>
+</div>
 
 ---
 
