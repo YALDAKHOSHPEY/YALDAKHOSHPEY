@@ -199,17 +199,3 @@ Let’s create something beautiful — one div at a time! 🚀
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
-
-> **Yalda:**  
-> *"Coding at 3AM like I’m saving the world...  
-> but it's just a missing semicolon."* 😹  
->
-> **Vida:**  
-> *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
->
-> **Yalda:**  
-> *"Powered by coffee, chaos, and Ctrl+Z."* ☕💻🌀  
->
-> **Vida:**  
-> *"When things get weird, I just call Yalda and say:*  
-> *‘Come on, let’s build a robot and take over GitHub!’"* 🤖👯‍♀️😂💪🏻
