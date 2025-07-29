@@ -86,6 +86,14 @@
 <div align="center">
 
 ---
+# 👯 Dream Dev Twins: Vida & Yalda
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Twin+Developers+Creating+Magic;Double+The+Creativity;Half+The+Bugs;Perfect+Code+Sync" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
 ### 🧙‍♀️ Twin Power Developers  
 *"Two minds, one vision - building digital wonders with perfect synchronization"* ✨
 
