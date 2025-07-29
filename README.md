@@ -84,23 +84,6 @@
 </div>
 
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&center=true&width=500&lines=%F0%9F%94%A5+Hi%2C+I'm+Yalda!;Front-End+Developer;Building+Magical+UIs+!" alt="Typing Animation"/>
-</div>
-
-<p align="center">
-  <strong style="color:#9B30FF;">❤️‍🔥Front-End Developer & WordPress Customizer</strong><br/>
-  <em style="color:#FF1493;">"Passion in pixels, calm in code."</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-8A2BE2?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/PHP-D580FF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-DA70D6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-D8B4FE?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-</p>
 
 ---
 ## 💫 About Me
