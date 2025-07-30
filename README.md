@@ -86,6 +86,31 @@
 <div align="center">
 
 ---
+## 🏅 My GitHub Achievements
+
+<p align="center">
+
+  <!-- Ranking in Iran -->
+  <a href="https://user-badge.committers.top/iran/YALDAKHOSHPEY">
+    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg" alt="Committers Top Badge"/>
+  </a>
+
+  <!-- Commits in 2025 -->
+  <img src="https://img.shields.io/badge/Commits%20(2025)-180%2B-orange?style=flat&logo=git" alt="Commits" />
+
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/badge/Public%20Repos-40%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
+
+  <!-- Top Language in 30days-frontend -->
+  <img src="https://img.shields.io/github/languages/top/YALDAKHOSHPEY/30days-frontend?style=flat&logo=html5&color=f39c12" alt="Top Language in 30days-frontend" />
+
+  <!-- GitHub Join Date -->
+  <img src="https://img.shields.io/badge/GitHub%20User-since%202024-%239b59b6?style=flat&logo=github" alt="GitHub Since" />
+
+</p>
+
+---
+
 # 👯 Dream Dev Twins: Vida & Yalda
 
 <p align="center">
