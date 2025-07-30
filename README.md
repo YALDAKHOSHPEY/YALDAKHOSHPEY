@@ -83,17 +83,17 @@
 ✨ <i>Every tool mastered, every skill honed - all to create digital magic</i> ✨
 </div>
 
-<div align="center">
-
 ---
-## 🏅 My GitHub Achievements
+
+<h2 align="center" style="color:#d63031;">
+  💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
+</h2>
 
 <p align="center">
-
-  <!-- Ranking in Iran -->
-  <a href="https://user-badge.committers.top/iran/YALDAKHOSHPEY">
-    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg" alt="Committers Top Badge"/>
-  </a>
+  <a href="https://user-badge.committers.top/iran/YALDAKHOSHPEY" target="_blank">
+    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
+  </a>
+</p>
 
 ---
 
