@@ -85,14 +85,14 @@
 
 ---
 
-<h2 align="center" style="color:#d63031;">
-  💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
+<h2 align="center" style="color:#d63031; margin: 0;">
+  💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
 </h2>
 
-<p align="center">
-  <a href="https://user-badge.committers.top/iran/YALDAKHOSHPEY" target="_blank">
-    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
-  </a>
+<p align="center" style="margin: 10px 0;">
+  <a href="https://user-badge.committers.top/iran/YALDAKHOSHPEY" target="_blank">
+    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
+  </a>
 </p>
 
 ---
