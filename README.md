@@ -90,8 +90,11 @@
 </h2>
 
 <p align="center" style="margin: 10px 0;">
-  <a href="https://user-badge.committers.top/iran/YALDAKHOSHPEY" target="_blank">
-    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
+  <a href="https://committers.top/iran" target="_blank">
+    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg?v=1" 
+         alt="Top GitHub Contributor in Iran" 
+         width="160" 
+         style="vertical-align: middle;" />
   </a>
 </p>
 
