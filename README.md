@@ -86,7 +86,7 @@
 ---
 
 <h2 align="center" style="color:#d63031; margin: 0;">
-  💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
+  💫 Ranked among the best GitHub Coders in Iran🇮🇷
 </h2>
 
 <p align="center" style="margin: 10px 0;">
