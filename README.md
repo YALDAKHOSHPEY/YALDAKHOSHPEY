@@ -288,18 +288,7 @@ But your support means the world to me! Here are some simple and safe ways to fu
 
 ---
 
-### 💳 Support via Iranian Bank (BluBank)
 
-If you're in Iran 🇮🇷 and want to support me directly, you can scan the BluBank QR code below or use the card number:
-
-<p align="center">
-  <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" alt="BluBank QR Code" width="220" />
-</p>
-
-<div align="center" style="font-size:1.1em; font-weight:bold; margin-bottom: 1em;">
-  Card Number: <code>6219861949985955</code><br/>
-  <small>(BluBank - Bank Saman)<br/>Account Holder: Yalda Khoshpey</small>
-</div>
 
 ---
 
