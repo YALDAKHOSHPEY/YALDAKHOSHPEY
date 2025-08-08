@@ -274,3 +274,82 @@ Let’s create something beautiful — one div at a time! 🚀
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YALDAKHOSHPEY&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10&column=6&title=MultiLanguage,Repositories,Commit,Stars,PullRequest,Issue)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💖 Support My Work
+
+Hello there! 👋  
+Unfortunately, **GitHub Sponsors** isn’t available in my country yet.  
+But your support means the world to me! Here are some simple and safe ways to fuel my open-source journey and learning adventures:
+
+---
+
+### 💳 Support via Iranian Bank (BluBank)
+
+If you're in Iran 🇮🇷 and want to support me directly, you can scan the BluBank QR code below or use the card number:
+
+<p align="center">
+  <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" alt="BluBank QR Code" width="220" />
+</p>
+
+<div align="center" style="font-size:1.1em; font-weight:bold; margin-bottom: 1em;">
+  Card Number: <code>6219861949985955</code><br/>
+  <small>(BluBank - Bank Saman)<br/>Account Holder: Yalda Khoshpey</small>
+</div>
+
+---
+
+### ₿ Support via Cryptocurrency
+
+Prefer anonymous or international support?  
+Here’s where you can send crypto to fuel my work:
+
+---
+
+#### USDT (TRC20)  
+📬 **Wallet Address:**  
+`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`  
+
+🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=195&address=TBC28jbxtBGytLQdVZjJmf73ULJunvTghT&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)  
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tether.svg" alt="USDT Logo" width="36" style="vertical-align:middle;" />
+
+---
+
+#### Bitcoin (BTC)  
+📬 **Wallet Address:**  
+`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`  
+
+🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=0&address=bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf)  
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bitcoin.svg" alt="Bitcoin Logo" width="36" style="vertical-align:middle;" />
+
+---
+
+#### Ethereum (ETH)  
+📬 **Wallet Address:**  
+`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`  
+
+🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=60&address=0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795)  
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" alt="Ethereum Logo" width="36" style="vertical-align:middle;" />
+
+---
+
+🙏 Thank you so much for your generosity!  
+Your support truly fuels my passion to keep creating and sharing. ❤️
+
+---
+
+## 👾 Cute Maze
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/pacman-contribution-graph.svg">
+</picture>
+---
