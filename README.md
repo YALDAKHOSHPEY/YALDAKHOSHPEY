@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
 </p>
 
----
+--
 
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
 
