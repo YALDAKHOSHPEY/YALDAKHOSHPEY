@@ -28,7 +28,7 @@
 </div>
 
 ---
-### 🛠️ My Creative Arsena
+### 🛠️ My Creative Arsenal
 
 <table align="center">
   <tr>
