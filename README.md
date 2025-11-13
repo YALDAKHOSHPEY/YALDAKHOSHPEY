@@ -170,42 +170,44 @@
 ---
 
 ### 🎨 What I bring to the browser:
-- 🎯 Pixel-perfect responsive UIs with a touch of WordPress magic  
-- 🌱 Currently leveling up in JavaScript & Python  
-- 💡 Inspired by elegant design, meaningful code, and bold imagination  
+- 🎯 Pixel-perfect, responsive web apps built with React & Next.js  
+- ⚡ Full-Stack solutions integrating Node.js, Express, PostgreSQL & Supabase  
+- 🌱 Continuously improving my skills in modern web technologies and scalable architectures  
+- 💡 Passionate about elegant design, clean code, and delivering user-centered experiences  
 
-Let’s create something beautiful — one div at a time! 🚀
+Let’s craft high-quality web applications — one component at a time! 🚀
 
 ---
 
 ## 🛠️ Programming Skills
 
-| Language       | Main Usage                         | Proficiency |
-|----------------|----------------------------------|-------------|
-| HTML5 🧱       | Markup & semantic structure       | ⭐⭐⭐⭐⭐      |
-| CSS3 🎨        | Styling, animations, layout       | ⭐⭐⭐⭐☆      |
-| JavaScript ✨   | DOM scripting, dynamic interactions | ⭐⭐⭐⭐☆   |
-| PHP 🐘         | WordPress themes & logic          | ⭐⭐⭐☆☆      |
-| Python 🐍      | Scripting & learning              | ⭐⭐☆☆☆      |
-| WordPress ⚙️   | Elementor, WooCommerce, SEO      | ⭐⭐⭐⭐☆      |
-
----
-
+| Technology       | Main Usage                                    | Proficiency |
+|-----------------|-----------------------------------------------|-------------|
+| HTML5 🧱        | Semantic markup & structure                   | ⭐⭐⭐⭐⭐      |
+| CSS3 🎨         | Styling, responsive layouts, Tailwind, Sass  | ⭐⭐⭐⭐☆      |
+| JavaScript ✨    | Front-End logic, ES6+, DOM & state handling  | ⭐⭐⭐⭐☆      |
+| React ⚛️        | Component-driven UIs, Hooks & Next.js SSR    | ⭐⭐⭐⭐☆      |
+| Node.js 🌐      | Server-side apps, REST APIs, Express.js      | ⭐⭐⭐⭐☆      |
+| PostgreSQL 🗄️  | Database design & querying, Supabase         | ⭐⭐⭐⭐☆      |
+| MongoDB 🍃      | NoSQL data handling & integration             | ⭐⭐⭐⭐☆      |
+| Python 🐍       | Scripting, Django front-end integration      | ⭐⭐☆☆☆      |
 ## 🧩 Tech Stack
 
 🎨 **Front-End**
-- HTML5, CSS3, JavaScript  
-- Responsive layouts, animations, pixel-perfect design
+- React, Next.js, HTML5, CSS3, Tailwind, Sass, JavaScript (ES6+)  
+- Responsive layouts, animations, component-driven UIs, pixel-perfect design
 
-🪄 **WordPress Magic**
-- Elementor, WooCommerce, SEO  
-- Custom themes & plugins using PHP
+⚡ **Back-End**
+- Node.js, Express.js, REST APIs, Django front-end integration  
+- Server-side logic, authentication, and scalable architecture
 
-🧰 **Tools & Platforms**
-- GitHub, VSCode, XAMPP, LocalWP  
-- Figma for design, Trello for task flow
+🗄️ **Databases**
+- PostgreSQL & Supabase, MongoDB  
+- Data modeling, querying, and integration with full-stack apps
 
----
+🛠️ **Tools & Platforms**
+- Git, GitHub, VSCode, Vercel, Render  
+- Figma for design, Trello for project management
 
 ## 🚀 Featured Projects
 
