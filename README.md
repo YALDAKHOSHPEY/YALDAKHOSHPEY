@@ -1,92 +1,91 @@
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&center=true&width=500&lines=%F0%9F%94%A5+Hi%2C+I'm+Yalda!;Front-End+Developer;Building+Magical+UIs+!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&center=true&width=500&lines=%F0%9F%94%A5+Hi%2C+I'm+Yalda!;Full-Stack+Developer;Building+Modern+Web+Apps+!" alt="Typing Animation"/>
 </div>
 
 <p align="center">
-  <strong style="color:#9B30FF;">❤️‍🔥Front-End Developer & WordPress Customizer</strong><br/>
-  <em style="color:#FF1493;">"Passion in pixels, calm in code."</em>
+  <strong style="color:#9B30FF;">❤️‍🔥Full-Stack Developer (React / Next.js / Node.js)</strong><br/>
+  <em style="color:#FF1493;">"Code with passion, design with purpose."</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-8A2BE2?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/PHP-D580FF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-DA70D6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-D8B4FE?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
 
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
 
 <div align="center">
-
-🎨 **Pixel Perfectionist** | **UI Magician** | **WordPress Whisperer**
-
+🎨 **UI/UX Specialist** | **Front-End Magician** | **Full-Stack Developer**
 </div>
 
 ---
-### 🛠️ My Creative Arsenal
+
+### 🛠️ My Development Arsenal
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="40" alt="WordPress"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" alt="React"/>
       <br>
-      <sub><b>WordPress Wizardry</b></sub>
+      <sub><b>Front-End Mastery</b></sub>
       <br>
-      <span>Theme Crafting<br>Plugin Alchemy</span>
+      <span>React & Next.js<br>Responsive UI & Animations</span>
     </td>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" alt="HTML5"/>
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" alt="Node.js"/>
       <br>
-      <sub><b>Front-End Sorcery</b></sub>
+      <sub><b>Back-End Wizardry</b></sub>
       <br>
-      <span>Semantic HTML5<br>CSS3 Magic</span>
+      <span>Node.js & Express<br>REST APIs & Server Logic</span>
     </td>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" alt="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" alt="Database"/>
       <br>
-      <sub><b>JS Enchantmen</b></sub>
+      <sub><b>Database Alchemy</b></sub>
       <br>
-      <span>ES6+ Incantations</span>
+      <span>PostgreSQL & Supabase<br>MongoDB & Data Management</span>
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" width="40" alt="Adobe XD"/>
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/>
       <br>
-      <sub><b>UI/UX Alchemy</b></sub>
+      <sub><b>Version Control</b></sub>
       <br>
-      <span>Pixel Perfection<br>User Journeys</span>
+      <span>Git & GitHub<br>Clean & Maintained Repos</span>
     </td>
     <td align="center" width="150">
       <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/>
       <br>
       <sub><b>Design Magic</b></sub>
       <br>
-      <span>Prototyping<br>Design Systems</span>
+      <span>UI/UX Design<br>Prototyping & Systems</span>
     </td>
     <td align="center" width="150">
       <img src="https://img.icons8.com/color/48/000000/rocket.png" width="40" alt="Rocket"/>
       <br>
       <sub><b>Performance Arts</b></sub>
       <br>
-      <span>Speed Optimization<br>Lighthouse 100%</span>
+      <span>Optimization & Lighthouse 100%<br>Speed & SEO</span>
     </td>
   </tr>
 </table>
 
 <div align="center" style="margin-top: 20px; font-size: 0.9em; color: #7b1fa2;">
-✨ <i>Every tool mastered, every skill honed - all to create digital magic</i> ✨
+✨ <i>Every tool mastered, every skill honed - all to create modern, scalable web applications</i> ✨
 </div>
 
 ---
 
 <h2 align="center" style="color:#d63031; margin: 0;">
-  💫 Ranked among the best GitHub Coders in Iran🇮🇷
+💫 Ranked among top GitHub contributors in Iran 🇮🇷
 </h2>
 
 <p align="center" style="margin: 10px 0;">
@@ -100,17 +99,15 @@
 
 ---
 
-# 👯 Dream Dev Twins: Vida & Yalda
+### 👯 Dream Dev Twins: Vida & Yalda
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Twin+Developers+Creating+Magic;Double+The+Creativity;Half+The+Bugs;Perfect+Code+Sync" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Twin+Full-Stack+Developers;Double+The+Impact;Half+The+Bugs;Perfect+Sync" alt="Typing SVG" />
 </p>
 
 <div align="center">
-
 ### 🧙‍♀️ Twin Power Developers  
-*"Two minds, one vision - building digital wonders with perfect synchronization"* ✨
-
+*"Two minds, one vision - building high-quality web solutions in sync"* ✨
 </div>
 
 <table align="center">
@@ -119,19 +116,17 @@
       <a href="https://github.com/VIDAKHOSHPEY22">
         <img src="https://github.com/VIDAKHOSHPEY22.png?size=200" width="160" style="border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 8px 16px rgba(138, 43, 226, 0.3);" alt="Vida"/>
         <br />
-        <sub>
-          <b style="color: #8A2BE2; font-size: 1.2em;">Vida</b>
-        </sub>
+        <sub><b style="color: #8A2BE2; font-size: 1.2em;">Vida</b></sub>
       </a>
       <br />
       <span style="font-size: 1em;">
         🧠 Full-Stack Developer<br/>
-        🤖 AI & ML Specialist<br/>
-        🔗 Blockchain Enthusiast
+        🤖 AI & ML Enthusiast<br/>
+        🌐 Web Application Architect
       </span>
       <br /><br />
       <a href="https://github.com/VIDAKHOSHPEY22">
-        <img src="https://img.shields.io/badge/-Vida's_Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vida's GitHub"/>
+        <img src="https://img.shields.io/badge/-Vida's_GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vida's GitHub"/>
       </a>
     </td>
     <td align="center" width="100">
@@ -147,20 +142,20 @@
       </a>
       <br />
       <span style="font-size: 1em;">
-        🎨 UI/UX Specialist<br/>
-        🖌️ WordPress Wizard<br/>
-        🌈 Front-End Artist
+        ⚡ Full-Stack Developer (React / Next.js / Node.js)<br/>
+        🌈 Front-End Artist & Performance Optimizer
       </span>
-      <br /><br />
       <a href="https://github.com/YALDAKHOSHPEY">
-        <img src="https://img.shields.io/badge/-Yalda's_Profile-BA55D3?style=for-the-badge&logo=github&logoColor=white" alt="Yalda's GitHub"/>
+        <img src="https://img.shields.io/badge/-Yalda's_GitHub-BA55D3?style=for-the-badge&logo=github&logoColor=white" alt="Yalda's GitHub"/>
       </a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  
+✨ Together, we build scalable, high-performance web apps and explore AI innovations ✨
+</div>
+
 ### 🔮 Our Twin Superpowers
 **Synced Coding** • **Double Debugging** • **Shared Brainstorming** • **Perfect Pair Programming**
 
