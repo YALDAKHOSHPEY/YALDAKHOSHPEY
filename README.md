@@ -19,7 +19,7 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yald
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
 
 <div align="center">
 🎨 **UI/UX Specialist** | **Front-End Magician** | **Full-Stack Developer**
