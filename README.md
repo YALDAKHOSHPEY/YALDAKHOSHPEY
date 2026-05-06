@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=YALDAKHOSHPEY&theme=pinetree)
+
 ---
 
 
