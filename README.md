@@ -270,45 +270,31 @@
   <img src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </div>
 
-<div align="center">
-  <h2>💖 Support My Work</h2>
-  
-  <p style="color: #b4a9f0; font-style: italic; margin-bottom: 24px;">
-    ⚡ GitHub Sponsors isn't available in my country yet — but your support still means the world! 🇮🇷❤️
-  </p>
+## 💖 Support My Work
 
-  <table style="background: linear-gradient(145deg, #1a1a2e, #0f0f1a); border-radius: 28px; padding: 20px; border: 1px solid rgba(155,48,255,0.3); margin: 20px auto; width: auto;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <div style="font-size: 1.3em; font-weight: bold; background: linear-gradient(135deg, #FF1493, #9B30FF); background-clip: text; -webkit-background-clip: text; color: transparent; margin-bottom: 12px;">🏦 BluBank (Iran)</div>
-        <code style="background: #0a0a14; padding: 8px 16px; border-radius: 40px; font-size: 1em; letter-spacing: 1px; color: #e879f9;">6219-8619-4998-5955</code><br/>
-        <small style="color: #a78bfa;">Yalda Khoshpey · Bank Saman</small><br/>
-        <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/15ba06cea6394b55f763ae2c109d97183323c638/BluBank_User_QR_1404_4_18_003122.jpg?raw=true" width="130" style="border-radius: 20px; margin-top: 12px; border: 2px solid #9B30FF; box-shadow: 0 6px 14px rgba(155,48,255,0.3);" />
-      </td>
-      <td width="40"></td>
-      <td align="left" style="padding: 20px;">
-        <div style="font-size: 1.3em; font-weight: bold; background: linear-gradient(135deg, #FF1493, #9B30FF); background-clip: text; -webkit-background-clip: text; color: transparent; margin-bottom: 12px;">₿ Crypto</div>
-        <div style="margin-bottom: 12px;">
-          <span style="color: #e879f9;">USDT (TRC20)</span><br/>
-          <code style="background: #0a0a14; padding: 6px 12px; border-radius: 30px; font-size: 0.85em; word-break: break-all;">TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <span style="color: #f0a6ff;">Bitcoin (BTC)</span><br/>
-          <code style="background: #0a0a14; padding: 6px 12px; border-radius: 30px; font-size: 0.85em; word-break: break-all;">bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code>
-        </div>
-        <div>
-          <span style="color: #c084fc;">Ethereum (ETH)</span><br/>
-          <code style="background: #0a0a14; padding: 6px 12px; border-radius: 30px; font-size: 0.85em; word-break: break-all;">0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795</code>
-        </div>
-       </td>
-    </tr>
-  </table>
+<p align="center">
+  <i>⚡ GitHub Sponsors isn't available in my country yet — but your support still means the world! 🇮🇷❤️</i>
+</p>
 
-  <p style="margin-top: 20px; color: #cdc9ff;">
-    🙏 <i>Thank you for fueling my open-source journey!</i>
-  </p>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=2&section=footer" width="100%" style="margin-top: 20px;">
-</div>
+<p align="center">
+  <b>🏦 BluBank (Iran)</b><br/>
+  <code>6219-8619-4998-5955</code><br/>
+  <sub>Yalda Khoshpey · Bank Saman</sub><br/>
+  <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/15ba06cea6394b55f763ae2c109d97183323c638/BluBank_User_QR_1404_4_18_003122.jpg?raw=true" width="120" />
+</p>
 
+<p align="center">
+  <b>₿ Crypto</b><br/>
+  <code>TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code> <sub>(USDT·TRC20)</sub><br/>
+  <code>bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code> <sub>(BTC)</sub><br/>
+  <code>0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795</code> <sub>(ETH)</sub>
+</p>
+
+<p align="center">
+  🙏 <i>Thank you for fueling my open-source journey!</i>
+</p>
+
+---
 ---
