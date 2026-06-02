@@ -18,6 +18,8 @@
 
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=YALDAKHOSHPEY&theme=pinetree)
 
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=YALDAKHOSHPEY&theme=darkNeon)
+
 ---
 
 
