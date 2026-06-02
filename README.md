@@ -270,22 +270,6 @@
   <img src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </div>
 
-
-## 😼 Meme Vibes
-
-**👯‍♀️ Yalda & Vida**🎇
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
-  <br/>
-  <em>"Typing like a legend. Panicking like a human." 😹</em>
-</p>
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YALDAKHOSHPEY&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10&column=6&title=MultiLanguage,Repositories,Commit,Stars,PullRequest,Issue)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 💖 Support My Work
 
 Hello there! 👋  
