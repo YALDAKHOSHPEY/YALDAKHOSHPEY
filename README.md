@@ -30,90 +30,55 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
 
 <div align="center">
-🎨 **UI/UX Specialist** | **Front-End Magician** | **Full-Stack Developer**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=300&color=FF1493&center=true&width=500&lines=%F0%9F%8E%A8+UI%2FUX+Specialist;%E2%9A%A1+Front-End+Magician;%F0%9F%9A%80+Full-Stack+Developer" alt="Typing Animation"/>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
-
-<div align="center">
-🎨 **UI/UX Specialist** | **Front-End Magician** | **Full-Stack Developer**
-</div>
 ### 🛠️ My Development Arsenal
 
 <div align="center">
-  <table style="width: 100%; max-width: 1000px; margin: 0 auto; border-collapse: collapse; table-layout: fixed;">
+  <table style="width: 100%; max-width: 900px; margin: 0 auto; border-collapse: collapse; background: transparent;">
     <tbody>
       <tr>
-        <td align="center" style="vertical-align: top; padding: 20px 10px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin: 8px; border: 1px solid rgba(255, 20, 147, 0.3); width: 16.66%;">
-          <div style="min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-              <img src="https://img.icons8.com/color/48/000000/react-native.png" width="45" alt="React"/>
-              <br><br>
-              <sub><b>🎯 Front-End Mastery</b></sub>
-            </div>
-            <div style="margin-top: 15px;">
-              <span style="font-size: 13px; color: #ccc;">React & Next.js<br>Responsive UI & Animations</span>
-            </div>
+        <td align="center" style="padding: 12px; background: linear-gradient(145deg, #0d0d1a, #13132b); border-radius: 24px; border: 1px solid rgba(255,20,147,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);">
+          <div style="padding: 15px 8px;">
+            <img src="https://skillicons.dev/icons?i=react" width="45" height="45" style="filter: drop-shadow(0 0 8px #61DAFB);">
+            <div style="font-size: 14px; font-weight: bold; color: #61DAFB; margin-top: 12px;">React & Next</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 8px;">Components & SSR</div>
           </div>
         </td>
-        <td align="center" style="vertical-align: top; padding: 20px 10px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin: 8px; border: 1px solid rgba(255, 20, 147, 0.3); width: 16.66%;">
-          <div style="min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-              <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="45" alt="Node.js"/>
-              <br><br>
-              <sub><b>⚙️ Back-End Wizardry</b></sub>
-            </div>
-            <div style="margin-top: 15px;">
-              <span style="font-size: 13px; color: #ccc;">Node.js & Express<br>REST APIs & Server Logic</span>
-            </div>
+        <td align="center" style="padding: 12px; background: linear-gradient(145deg, #0d0d1a, #13132b); border-radius: 24px; border: 1px solid rgba(255,20,147,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);">
+          <div style="padding: 15px 8px;">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" style="filter: drop-shadow(0 0 8px #539E43);">
+            <div style="font-size: 14px; font-weight: bold; color: #539E43; margin-top: 12px;">Node.js</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 8px;">APIs & Backend</div>
           </div>
         </td>
-        <td align="center" style="vertical-align: top; padding: 20px 10px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin: 8px; border: 1px solid rgba(255, 20, 147, 0.3); width: 16.66%;">
-          <div style="min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-              <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="45" alt="Database"/>
-              <br><br>
-              <sub><b>🗄️ Database Alchemy</b></sub>
-            </div>
-            <div style="margin-top: 15px;">
-              <span style="font-size: 13px; color: #ccc;">PostgreSQL & Supabase<br>MongoDB & Data Management</span>
-            </div>
+        <td align="center" style="padding: 12px; background: linear-gradient(145deg, #0d0d1a, #13132b); border-radius: 24px; border: 1px solid rgba(255,20,147,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);">
+          <div style="padding: 15px 8px;">
+            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" style="filter: drop-shadow(0 0 8px #336791);">
+            <div style="font-size: 14px; font-weight: bold; color: #67C8FF; margin-top: 12px;">PostgreSQL</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 8px;">Supabase & Data</div>
           </div>
         </td>
-        <td align="center" style="vertical-align: top; padding: 20px 10px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin: 8px; border: 1px solid rgba(255, 20, 147, 0.3); width: 16.66%;">
-          <div style="min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-              <img src="https://img.icons8.com/color/48/000000/git.png" width="45" alt="Git"/>
-              <br><br>
-              <sub><b>📦 Version Control</b></sub>
-            </div>
-            <div style="margin-top: 15px;">
-              <span style="font-size: 13px; color: #ccc;">Git & GitHub<br>Clean & Maintained Repos</span>
-            </div>
+        <td align="center" style="padding: 12px; background: linear-gradient(145deg, #0d0d1a, #13132b); border-radius: 24px; border: 1px solid rgba(255,20,147,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);">
+          <div style="padding: 15px 8px;">
+            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" style="filter: drop-shadow(0 0 8px #F05032);">
+            <div style="font-size: 14px; font-weight: bold; color: #F05032; margin-top: 12px;">Git & GitHub</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 8px;">Version Control</div>
           </div>
         </td>
-        <td align="center" style="vertical-align: top; padding: 20px 10px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin: 8px; border: 1px solid rgba(255, 20, 147, 0.3); width: 16.66%;">
-          <div style="min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-              <img src="https://img.icons8.com/color/48/000000/figma.png" width="45" alt="Figma"/>
-              <br><br>
-              <sub><b>🎨 Design Magic</b></sub>
-            </div>
-            <div style="margin-top: 15px;">
-              <span style="font-size: 13px; color: #ccc;">UI/UX Design<br>Prototyping & Systems</span>
-            </div>
+        <td align="center" style="padding: 12px; background: linear-gradient(145deg, #0d0d1a, #13132b); border-radius: 24px; border: 1px solid rgba(255,20,147,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);">
+          <div style="padding: 15px 8px;">
+            <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" style="filter: drop-shadow(0 0 8px #F24E1E);">
+            <div style="font-size: 14px; font-weight: bold; color: #F24E1E; margin-top: 12px;">Figma</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 8px;">UI/UX Design</div>
           </div>
         </td>
-        <td align="center" style="vertical-align: top; padding: 20px 10px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin: 8px; border: 1px solid rgba(255, 20, 147, 0.3); width: 16.66%;">
-          <div style="min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-            <div>
-              <img src="https://img.icons8.com/color/48/000000/rocket.png" width="45" alt="Rocket"/>
-              <br><br>
-              <sub><b>🚀 Performance Arts</b></sub>
-            </div>
-            <div style="margin-top: 15px;">
-              <span style="font-size: 13px; color: #ccc;">Optimization & Lighthouse 100%<br>Speed & SEO</span>
-            </div>
+        <td align="center" style="padding: 12px; background: linear-gradient(145deg, #0d0d1a, #13132b); border-radius: 24px; border: 1px solid rgba(255,20,147,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);">
+          <div style="padding: 15px 8px;">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" style="filter: drop-shadow(0 0 8px #38BDF8);">
+            <div style="font-size: 14px; font-weight: bold; color: #38BDF8; margin-top: 12px;">Tailwind</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 8px;">Styling & Animations</div>
           </div>
         </td>
       </tr>
@@ -121,29 +86,42 @@
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px; font-size: 0.9em; color: #7b1fa2;">
-✨ <i>Every tool mastered, every skill honed - all to create modern, scalable web applications</i> ✨
-</div>
-
+<div align="center" style="margin: 25px auto 15px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=400&color=9B30FF&center=true&width=600&lines=✨+Every+tool+mastered%2C+every+skill+honed+✨;🚀
 ---
 
-<h2 align="center" style="color:#d63031; margin: 0;">
-💫 Ranked among top GitHub contributors in Iran 🇮🇷
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=2&section=header" width="100%">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30">
+  <span style="background: linear-gradient(135deg, #FF1493, #9B30FF); background-clip: text; -webkit-background-clip: text; color: transparent;">
+    Ranked among top GitHub contributors in Iran
+  </span>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30">
 </h2>
 
-<p align="center" style="margin: 10px 0;">
+<p align="center">
   <a href="https://committers.top/iran" target="_blank">
     <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg?v=1" 
          alt="Top GitHub Contributor in Iran" 
-         width="160" 
-         style="vertical-align: middle;" />
+         width="180" 
+         style="border-radius: 40px; box-shadow: 0 0 20px rgba(255,20,147,0.5); transition: all 0.3s ease;" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YALDAKHOSHPEY&label=Profile%20Views&color=FF1493&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=2&section=footer" width="100%">
+</div>
 ### 👯 Dream Dev Twins: Vida & Yalda
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Twin+Full-Stack+Developers;Double+The+Impact;Half+The+Bugs;Perfect+Sync" alt="Typing SVG" />
+
 </p>
 
 <div align="center">
