@@ -94,38 +94,37 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=2&section=header" width="100%">
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YALDAKHOSHPEY&label=✨%20PROFILE%20VIEWS%20✨&color=9B30FF&style=for-the-badge&labelColor=0a0a1a" alt="Profile Views" />
+</div>
+
+<br/>
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30">
-  <span style="background: linear-gradient(135deg, #FF1493, #9B30FF); background-clip: text; -webkit-background-clip: text; color: transparent;">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="35">
+  <span style="background: linear-gradient(135deg, #FF1493, #9B30FF, #DA70D6); background-clip: text; -webkit-background-clip: text; color: transparent;">
     Ranked among top GitHub contributors in Iran
   </span>
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="35">
 </h2>
 
 <p align="center">
   <a href="https://committers.top/iran" target="_blank">
     <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg?v=1" 
          alt="Top GitHub Contributor in Iran" 
-         width="180" 
-         style="border-radius: 40px; box-shadow: 0 0 20px rgba(255,20,147,0.5); transition: all 0.3s ease;" />
+         width="200" 
+         style="border-radius: 50px; box-shadow: 0 0 25px rgba(155,48,255,0.6); transition: all 0.3s ease;" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YALDAKHOSHPEY&label=Profile%20Views&color=FF1493&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=2&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=3&section=footer" width="100%">
 </div>
-### 👯 Dream Dev Twins: Vida & Yalda
 
 <p align="center">
 
 </p>
-
-<div align="center">
-### 🧙‍♀️ Twin Power Developers  
+  
 *"Two minds, one vision - building high-quality web solutions in sync"* ✨
 </div>
 
@@ -196,60 +195,18 @@
 
 ---
 
-### 🎨 What I bring to the browser:
-- 🎯 Pixel-perfect, responsive web apps built with React & Next.js  
-- ⚡ Full-Stack solutions integrating Node.js, Express, PostgreSQL & Supabase  
-- 🌱 Continuously improving my skills in modern web technologies and scalable architectures  
-- 💡 Passionate about elegant design, clean code, and delivering user-centered experiences  
+### 🛠️ Tech Stack & Skills
 
-<p align="center">Let’s craft high-quality web applications — one component at a time! 🚀</p>
-
----
-
-### 🛠️ Programming Skills
-
-<p align="center">
-
-| Technology | Main Usage | Proficiency |
-|---|---|---|
-| HTML5 🧱 | Semantic markup & structure | ⭐⭐⭐⭐⭐ |
-| CSS3 🎨 | Styling, responsive layouts, Tailwind, Sass | ⭐⭐⭐⭐☆ |
-| JavaScript ✨ | Front-End logic, ES6+, DOM & state handling | ⭐⭐⭐⭐☆ |
-| React ⚛️ | Component-driven UIs, Hooks & Next.js SSR | ⭐⭐⭐⭐☆ |
-| Node.js 🌐 | Server-side apps, REST APIs, Express.js | ⭐⭐⭐⭐☆ |
-| PostgreSQL 🗄️ | Database design & querying, Supabase | ⭐⭐⭐⭐☆ |
-| MongoDB 🍃 | NoSQL data handling & integration | ⭐⭐⭐⭐☆ |
-| Python 🐍 | Scripting, Django front-end integration | ⭐⭐☆☆☆ |
-
-</p>
-
-### 🧩 Tech Stack
-
-**🎨 Front-End**  
-React, Next.js, HTML5, CSS3, Tailwind, Sass, JavaScript (ES6+)  
-Responsive layouts, animations, component-driven UIs, pixel-perfect design
-
-**⚡ Back-End**  
-Node.js, Express.js, REST APIs, Django front-end integration  
-Server-side logic, authentication, and scalable architecture
-
-**🗄️ Databases**  
-PostgreSQL & Supabase, MongoDB  
-Data modeling, querying, and integration with full-stack apps
-
-**🛠️ Tools & Platforms**  
-Git, GitHub, VSCode, Vercel, Render  
-Figma for design, Trello for project management
-
-### 🚀 Featured Projects
-
-**🌈 30 Days Front-End Challenge**  
-💡 Daily coding challenge focused on UI magic using **HTML**, **CSS**, and **JavaScript**  
-🔗 [Check it out on GitHub »](https://github.com/YALDAKHOSHPEY/30days-frontend)
-
-**🎓 CS50x – Harvard**  
-🧠 Hands-on journey through **C**, **Python**, and full-stack fundamentals  
-🔗 [Browse the Repo »](https://github.com/YALDAKHOSHPEY/cs50x)
+| Technology | Main Usage | Level |
+|------------|------------|-------|
+| **HTML5** 🧱 | Semantic markup & structure | ████████░░ 80% |
+| **CSS3** 🎨 | Styling, Tailwind, Sass, responsive | ███████░░░ 75% |
+| **JavaScript** ✨ | ES6+, DOM, state handling | ███████░░░ 75% |
+| **React** ⚛️ | Hooks, Next.js, component-driven UIs | ███████░░░ 75% |
+| **Node.js** 🌐 | REST APIs, Express.js | ███████░░░ 70% |
+| **PostgreSQL** 🗄️ | Supabase, querying, DB design | ███████░░░ 70% |
+| **MongoDB** 🍃 | NoSQL integration | ███████░░░ 70% |
+| **Python** 🐍 | Scripting, Django integration | ███████░░░ 70% |
 
 ---
 ## 📈 GitHub Stats
