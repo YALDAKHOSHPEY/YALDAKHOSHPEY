@@ -178,13 +178,21 @@
 ### 🔮 Our Twin Superpowers
 **Synced Coding** • **Double Debugging** • **Shared Brainstorming** • **Perfect Pair Programming**
 
-[![GitHub Followers](https://img.shields.io/github/followers/VIDAKHOSHPEY22?label=Follow%20Vida&style=social)](https://github.com/VIDAKHOSHPEY22)
-[![GitHub Followers](https://img.shields.io/github/followers/YALDAKHOSHPEY?label=Follow%20Yalda&style=social)](https://github.com/YALDAKHOSHPEY)
-
-[![GitHub Stars](https://img.shields.io/github/stars/VIDAKHOSHPEY22?label=Vida's%20Stars&style=social)](https://github.com/VIDAKHOSHPEY22)
-[![GitHub Stars](https://img.shields.io/github/stars/YALDAKHOSHPEY?label=Yalda's%20Stars&style=social)](https://github.com/YALDAKHOSHPEY)
-
-</div>
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22">
+    <img src="https://img.shields.io/github/followers/VIDAKHOSHPEY22?label=Follow%20Vida&style=for-the-badge&logo=github&color=8A2BE2" alt="Follow Vida"/>
+  </a>
+  <a href="https://github.com/YALDAKHOSHPEY">
+    <img src="https://img.shields.io/github/followers/YALDAKHOSHPEY?label=Follow%20Yalda&style=for-the-badge&logo=github&color=BA55D3" alt="Follow Yalda"/>
+  </a>
+  <br/>
+  <a href="https://github.com/VIDAKHOSHPEY22">
+    <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22?label=Vida's%20Stars&style=for-the-badge&logo=github&color=8A2BE2" alt="Vida's Stars"/>
+  </a>
+  <a href="https://github.com/YALDAKHOSHPEY">
+    <img src="https://img.shields.io/github/stars/YALDAKHOSHPEY?label=Yalda's%20Stars&style=for-the-badge&logo=github&color=BA55D3" alt="Yalda's Stars"/>
+  </a>
+</p>
 
 ---
 
@@ -194,47 +202,52 @@
 - 🌱 Continuously improving my skills in modern web technologies and scalable architectures  
 - 💡 Passionate about elegant design, clean code, and delivering user-centered experiences  
 
-Let’s craft high-quality web applications — one component at a time! 🚀
+<p align="center">Let’s craft high-quality web applications — one component at a time! 🚀</p>
 
 ---
 
-## 🛠️ Programming Skills
+### 🛠️ Programming Skills
 
-| Technology       | Main Usage                                    | Proficiency |
-|-----------------|-----------------------------------------------|-------------|
-| HTML5 🧱        | Semantic markup & structure                   | ⭐⭐⭐⭐⭐      |
-| CSS3 🎨         | Styling, responsive layouts, Tailwind, Sass  | ⭐⭐⭐⭐☆      |
-| JavaScript ✨    | Front-End logic, ES6+, DOM & state handling  | ⭐⭐⭐⭐☆      |
-| React ⚛️        | Component-driven UIs, Hooks & Next.js SSR    | ⭐⭐⭐⭐☆      |
-| Node.js 🌐      | Server-side apps, REST APIs, Express.js      | ⭐⭐⭐⭐☆      |
-| PostgreSQL 🗄️  | Database design & querying, Supabase         | ⭐⭐⭐⭐☆      |
-| MongoDB 🍃      | NoSQL data handling & integration             | ⭐⭐⭐⭐☆      |
-| Python 🐍       | Scripting, Django front-end integration      | ⭐⭐☆☆☆      |
-## 🧩 Tech Stack
+<p align="center">
 
-🎨 **Front-End**
-- React, Next.js, HTML5, CSS3, Tailwind, Sass, JavaScript (ES6+)  
-- Responsive layouts, animations, component-driven UIs, pixel-perfect design
+| Technology | Main Usage | Proficiency |
+|---|---|---|
+| HTML5 🧱 | Semantic markup & structure | ⭐⭐⭐⭐⭐ |
+| CSS3 🎨 | Styling, responsive layouts, Tailwind, Sass | ⭐⭐⭐⭐☆ |
+| JavaScript ✨ | Front-End logic, ES6+, DOM & state handling | ⭐⭐⭐⭐☆ |
+| React ⚛️ | Component-driven UIs, Hooks & Next.js SSR | ⭐⭐⭐⭐☆ |
+| Node.js 🌐 | Server-side apps, REST APIs, Express.js | ⭐⭐⭐⭐☆ |
+| PostgreSQL 🗄️ | Database design & querying, Supabase | ⭐⭐⭐⭐☆ |
+| MongoDB 🍃 | NoSQL data handling & integration | ⭐⭐⭐⭐☆ |
+| Python 🐍 | Scripting, Django front-end integration | ⭐⭐☆☆☆ |
 
-⚡ **Back-End**
-- Node.js, Express.js, REST APIs, Django front-end integration  
-- Server-side logic, authentication, and scalable architecture
+</p>
 
-🗄️ **Databases**
-- PostgreSQL & Supabase, MongoDB  
-- Data modeling, querying, and integration with full-stack apps
+### 🧩 Tech Stack
 
-🛠️ **Tools & Platforms**
-- Git, GitHub, VSCode, Vercel, Render  
-- Figma for design, Trello for project management
+**🎨 Front-End**  
+React, Next.js, HTML5, CSS3, Tailwind, Sass, JavaScript (ES6+)  
+Responsive layouts, animations, component-driven UIs, pixel-perfect design
 
-## 🚀 Featured Projects
+**⚡ Back-End**  
+Node.js, Express.js, REST APIs, Django front-end integration  
+Server-side logic, authentication, and scalable architecture
 
-🌈 **30 Days Front-End Challenge**  
+**🗄️ Databases**  
+PostgreSQL & Supabase, MongoDB  
+Data modeling, querying, and integration with full-stack apps
+
+**🛠️ Tools & Platforms**  
+Git, GitHub, VSCode, Vercel, Render  
+Figma for design, Trello for project management
+
+### 🚀 Featured Projects
+
+**🌈 30 Days Front-End Challenge**  
 💡 Daily coding challenge focused on UI magic using **HTML**, **CSS**, and **JavaScript**  
 🔗 [Check it out on GitHub »](https://github.com/YALDAKHOSHPEY/30days-frontend)
 
-🎓 **CS50x – Harvard**  
+**🎓 CS50x – Harvard**  
 🧠 Hands-on journey through **C**, **Python**, and full-stack fundamentals  
 🔗 [Browse the Repo »](https://github.com/YALDAKHOSHPEY/cs50x)
 
