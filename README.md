@@ -229,6 +229,7 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-✨%20YALDAKHOSHPEY%20✨-1e1039?style=for-the-badge&logo=github&logoColor=DA70D6&labelColor=0a0612&color=DA70D6" alt="YALDAKHOSHPEY" />
 </p>
+
 ## Let's Connect
 
 <p align="center">
@@ -283,5 +284,4 @@
   🙏 <i>Thank you for fueling my open-source journey!</i>
 </p>
 
----
 ---
