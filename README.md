@@ -211,37 +211,24 @@
 ---
 ## 📈 GitHub Stats
 
+<!-- کارت اول: Stats -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18" width="95%" max-width="400px" />
+</p>
 
-<h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">
-  <font size="7">
-    <b>
-      <span style="background: linear-gradient(120deg, #DA70D6, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">
-        📈 GitHub Stats
-      </span>
-    </b>
-  </font>
-</h2>
+<!-- کارت دوم: Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YALDAKHOSHPEY&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117" width="95%" max-width="400px" />
+</p>
 
-<!-- ردیف اول: سه کارت اصلی در یک ردیف -->
-<table border="0" cellpadding="15" cellspacing="15" align="center">
-  <tr>
-    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18" width="330"/>
-    </td>
-    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://streak-stats.demolab.com?user=YALDAKHOSHPEY&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117" width="370"/>
-    </td>
-    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18" width="300"/>
-    </td>
-  </tr>
-</table>
+<!-- کارت سوم: Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18" width="95%" max-width="400px" />
+</p>
 
-<!-- دکوریشن پایین (بدون تکرار) -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://custom-icon-badges.demolab.com/badge/-✨%20YALDAKHOSHPEY%20✨-1e1039?style=for-the-badge&logo=github&logoColor=DA70D6&labelColor=0a0612&color=DA70D6" alt="YALDAKHOSHPEY">
-</div>
-
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-✨%20YALDAKHOSHPEY%20✨-1e1039?style=for-the-badge&logo=github&logoColor=DA70D6&labelColor=0a0612&color=DA70D6" alt="YALDAKHOSHPEY" />
+</p>
 ## Let's Connect
 
 <p align="center">
