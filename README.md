@@ -270,67 +270,45 @@
   <img src="https://raw.githubusercontent.com/YALDAKHOSHPEY/YALDAKHOSHPEY/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </div>
 
-## 💖 Support My Work
+<div align="center">
+  <h2>💖 Support My Work</h2>
+  
+  <p style="color: #b4a9f0; font-style: italic; margin-bottom: 24px;">
+    ⚡ GitHub Sponsors isn't available in my country yet — but your support still means the world! 🇮🇷❤️
+  </p>
 
-Hello there! 👋  
-Unfortunately, **GitHub Sponsors** isn’t available in my country yet.  
-But your support means the world to me! Here are some simple and safe ways to fuel my open-source journey and learning adventures:
+  <table style="background: linear-gradient(145deg, #1a1a2e, #0f0f1a); border-radius: 28px; padding: 20px; border: 1px solid rgba(155,48,255,0.3); margin: 20px auto; width: auto;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <div style="font-size: 1.3em; font-weight: bold; background: linear-gradient(135deg, #FF1493, #9B30FF); background-clip: text; -webkit-background-clip: text; color: transparent; margin-bottom: 12px;">🏦 BluBank (Iran)</div>
+        <code style="background: #0a0a14; padding: 8px 16px; border-radius: 40px; font-size: 1em; letter-spacing: 1px; color: #e879f9;">6219-8619-4998-5955</code><br/>
+        <small style="color: #a78bfa;">Yalda Khoshpey · Bank Saman</small><br/>
+        <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/15ba06cea6394b55f763ae2c109d97183323c638/BluBank_User_QR_1404_4_18_003122.jpg?raw=true" width="130" style="border-radius: 20px; margin-top: 12px; border: 2px solid #9B30FF; box-shadow: 0 6px 14px rgba(155,48,255,0.3);" />
+      </td>
+      <td width="40"></td>
+      <td align="left" style="padding: 20px;">
+        <div style="font-size: 1.3em; font-weight: bold; background: linear-gradient(135deg, #FF1493, #9B30FF); background-clip: text; -webkit-background-clip: text; color: transparent; margin-bottom: 12px;">₿ Crypto</div>
+        <div style="margin-bottom: 12px;">
+          <span style="color: #e879f9;">USDT (TRC20)</span><br/>
+          <code style="background: #0a0a14; padding: 6px 12px; border-radius: 30px; font-size: 0.85em; word-break: break-all;">TBC28jbxtBGytLQdVZjJmf73ULJunvTghT</code>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <span style="color: #f0a6ff;">Bitcoin (BTC)</span><br/>
+          <code style="background: #0a0a14; padding: 6px 12px; border-radius: 30px; font-size: 0.85em; word-break: break-all;">bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf</code>
+        </div>
+        <div>
+          <span style="color: #c084fc;">Ethereum (ETH)</span><br/>
+          <code style="background: #0a0a14; padding: 6px 12px; border-radius: 30px; font-size: 0.85em; word-break: break-all;">0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795</code>
+        </div>
+       </td>
+    </tr>
+  </table>
 
----
+  <p style="margin-top: 20px; color: #cdc9ff;">
+    🙏 <i>Thank you for fueling my open-source journey!</i>
+  </p>
 
-### 💳 Support via Iranian Bank (BluBank)
-
-If you're in Iran 🇮🇷 and would like to support me directly, you can scan the BluBank QR code below or use the card number provided.
-
-<p align="center">
-  <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/15ba06cea6394b55f763ae2c109d97183323c638/BluBank_User_QR_1404_4_18_003122.jpg?raw=true" alt="BluBank QR Code" width="220" />
-</p>
-
-<div align="center" style="font-size:1.1em; font-weight:bold; margin-bottom: 1em;">
-  Card Number: <code>6219-8619-4998-5955</code><br/>
-  <small>(BluBank - Bank Saman)<br/>Account Holder: Yalda Khoshpey</small>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=2&section=footer" width="100%" style="margin-top: 20px;">
 </div>
-
----
-
-### ₿ Support via Cryptocurrency
-
-Prefer anonymous or international support?  
-Here’s where you can send crypto to fuel my work:
-
----
-
-#### USDT (TRC20)  
-📬 **Wallet Address:**  
-`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`  
-
-🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=195&address=TBC28jbxtBGytLQdVZjJmf73ULJunvTghT&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)  
-<br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tether.svg" alt="USDT Logo" width="36" style="vertical-align:middle;" />
-
----
-
-#### Bitcoin (BTC)  
-📬 **Wallet Address:**  
-`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`  
-
-🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=0&address=bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf)  
-<br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bitcoin.svg" alt="Bitcoin Logo" width="36" style="vertical-align:middle;" />
-
----
-
-#### Ethereum (ETH)  
-📬 **Wallet Address:**  
-`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`  
-
-🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=60&address=0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795)  
-<br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" alt="Ethereum Logo" width="36" style="vertical-align:middle;" />
-
----
-
-🙏 Thank you so much for your generosity!  
-Your support truly fuels my passion to keep creating and sharing. ❤️
 
 ---
