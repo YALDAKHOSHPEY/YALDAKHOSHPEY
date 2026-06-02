@@ -16,12 +16,16 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=YALDAKHOSHPEY&theme=pinetree)
-
-![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=YALDAKHOSHPEY&theme=darkNeon)
+<!-- کارت‌ها زیر هم با فاصله کم -->
+<div align="center">
+  <img src="https://kgnio-profile-card.vercel.app/api/card?user=YALDAKHOSHPEY&theme=pinetree" width="500" />
+  
+  <br/>
+  
+  <img src="https://github-languages-card.vercel.app/api/top-languages?username=YALDAKHOSHPEY&theme=darkNeon" width="500" />
+</div>
 
 ---
-
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
 
@@ -29,8 +33,11 @@
 🎨 **UI/UX Specialist** | **Front-End Magician** | **Full-Stack Developer**
 </div>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
 
+<div align="center">
+🎨 **UI/UX Specialist** | **Front-End Magician** | **Full-Stack Developer**
+</div>
 ### 🛠️ My Development Arsenal
 
 <div align="center">
