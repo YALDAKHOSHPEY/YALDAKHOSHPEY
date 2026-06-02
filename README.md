@@ -27,7 +27,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yalda
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Digital Artisan: Yald
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=300&color=FF1493&center=true&width=500&lines=%F0%9F%8E%A8+UI%2FUX+Specialist;%E2%9A%A1+Front-End+Magician;%F0%9F%9A%80+Full-Stack+Developer" alt="Typing Animation"/>
