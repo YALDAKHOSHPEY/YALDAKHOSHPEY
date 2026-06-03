@@ -1,4 +1,18 @@
 <div align="center">
+<a name="top"></a>
+
+<img src="https://komarev.com/ghpvc/?username=YALDAKHOSHPEY&style=for-the-badge&color=6D28D9"/>
+
+<img src="https://img.shields.io/github/followers/YALDAKHOSHPEY?style=for-the-badge&color=6D28D9&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/github/stars/YALDAKHOSHPEY?style=for-the-badge&color=6D28D9&logo=github&logoColor=white"/>
+
+<a href="https://docs.github.com/en/developers/overview/github-developer-program">
+  <img src="https://img.shields.io/badge/Open%20Source-GitHub%20Developer-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Open Source GitHub Developer">
+</a>
+</div>
+<br><br>
+<div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&center=true&width=500&lines=%F0%9F%94%A5+Hi%2C+I'm+Yalda!;Full-Stack+Developer;Building+Modern+Web+Apps+!" alt="Typing Animation"/>
 </div>
 
@@ -123,12 +137,6 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=2&section=header" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YALDAKHOSHPEY&label=✨%20PROFILE%20VIEWS%20✨&color=9B30FF&style=for-the-badge&labelColor=0a0a1a" alt="Profile Views" />
-</div>
-
-<br/>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="35">
   <span style="background: linear-gradient(135deg, #FF1493, #9B30FF, #DA70D6); background-clip: text; -webkit-background-clip: text; color: transparent;">
@@ -226,18 +234,32 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 ### 🛠️ Tech Stack & Skills
 
-| Technology | Main Usage | Level |
-|------------|------------|-------|
-| **HTML5** 🧱 | Semantic markup & structure | ████████░░ 80% |
-| **CSS3** 🎨 | Styling, Tailwind, Sass, responsive | ███████░░░ 75% |
-| **JavaScript** ✨ | ES6+, DOM, state handling | ███████░░░ 75% |
-| **React** ⚛️ | Hooks, Next.js, component-driven UIs | ███████░░░ 75% |
-| **Node.js** 🌐 | REST APIs, Express.js | ███████░░░ 70% |
-| **PostgreSQL** 🗄️ | Supabase, querying, DB design | ███████░░░ 70% |
-| **MongoDB** 🍃 | NoSQL integration | ███████░░░ 70% |
-| **Python** 🐍 | Scripting, Django integration | ███████░░░ 70% |
+<div align="center">
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,mongodb,python" />
+  
+  <br><br>
+  
+  | Skill | Proficiency |
+  |-------|-------------|
+  | **HTML5** | ████████░░░░ 80% |
+  | **CSS3** | ███████░░░░░ 75% |
+  | **JavaScript** | ███████░░░░░ 75% |
+  | **React** | ███████░░░░░ 75% |
+  | **Node.js** | ███████░░░░░ 70% |
+  | **PostgreSQL** | ███████░░░░░ 70% |
+  | **MongoDB** | ███████░░░░░ 70% |
+  | **Python** | ███████░░░░░ 70% |
+  
+  <br>
+  
+  <sub>🚀 Always learning and improving</sub>
+  
+</div>
 
 ---
+
 ## 📈 GitHub Stats
 
 <!-- کارت اول: Stats -->
@@ -314,3 +336,15 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 </p>
 
 ---
+
+<div align="center">
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Thanks for visiting ⚡</sub>
+
+</div>
