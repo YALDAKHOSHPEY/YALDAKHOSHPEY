@@ -17,13 +17,41 @@
 </p>
 
 <!-- کارت‌ها زیر هم با فاصله کم -->
-<div align="center">
-  <img src="https://kgnio-profile-card.vercel.app/api/card?user=YALDAKHOSHPEY&theme=pinetree" width="500" />
-  
-  <br/>
-  
-  <img src="https://github-languages-card.vercel.app/api/top-languages?username=YALDAKHOSHPEY&theme=darkNeon" width="500" />
-</div>
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
+
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+    <img
+      src="https://github-languages-card.vercel.app/api/top-languages?username=YALDAKHOSHPEY&theme=darkNeon"
+      width="760"
+      alt="GitHub Languages Card"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Transform any GitHub profile into a clean, shareable language analytics card.</strong>
+  <br>
+  Built for README profiles, portfolios, developer showcases, and open-source communities.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+  <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" alt="GitHub Stars" />
+</a>
+
+<a href="https://github-languages-card.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages Card
 
 ---
 
