@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<!-- کارت‌ها زیر هم با فاصله کم -->
+<div align="center">
+  
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
 
 <p align="center">
