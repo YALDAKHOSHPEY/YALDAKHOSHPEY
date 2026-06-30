@@ -64,7 +64,7 @@
 
 ---
 
-## 👩‍💻 About M
+## 👩‍💻 About Me
 
 Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages Card
 
