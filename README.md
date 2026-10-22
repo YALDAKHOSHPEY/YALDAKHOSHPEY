@@ -262,19 +262,16 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 ## 📈 GitHub Stats
 
-<!-- کارت اول: Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18" width="95%" max-width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YALDAKHOSHPEY&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18" width="520" />
 </p>
 
-<!-- کارت دوم: Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YALDAKHOSHPEY&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117" width="95%" max-width="400px" />
+  <img src="https://streak-stats.demolab.com?user=YALDAKHOSHPEY&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117" width="520" />
 </p>
 
-<!-- کارت سوم: Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18" width="95%" max-width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALDAKHOSHPEY&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18" width="420" />
 </p>
 
 <p align="center">
