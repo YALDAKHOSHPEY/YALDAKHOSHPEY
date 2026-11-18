@@ -37,6 +37,9 @@
 ## 🤖 Dumirror_Robo
 
 <p align="center">
+  <a href="https://www.arduino.cc/reference/en/libraries/dumirror_robo/">
+    <img src="https://img.shields.io/badge/Arduino%20Library%20Manager-Available-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Available in Arduino Library Manager"/>
+  </a>
   <a href="https://github.com/VIDAKHOSHPEY22/Dumirror_Robo/releases/download/v1.1.0/Dumirror_Robo-1.1.0.zip">
     <img src="https://img.shields.io/badge/⬇%20Download-Dumirror_Robo%20v1.1.0-8B5CF6?style=for-the-badge" alt="Download Dumirror_Robo v1.1.0"/>
   </a>
