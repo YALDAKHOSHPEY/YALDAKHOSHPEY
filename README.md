@@ -30,6 +30,62 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+---
+
+<div align="center">
+
+## 🤖 Dumirror_Robo
+
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/Dumirror_Robo/releases/download/v1.1.0/Dumirror_Robo-1.1.0.zip">
+    <img src="https://img.shields.io/badge/⬇%20Download-Dumirror_Robo%20v1.1.0-8B5CF6?style=for-the-badge" alt="Download Dumirror_Robo v1.1.0"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>An open-source animated robot face library for SSD1306 128×64 OLED displays.</b>
+  <br>
+  Create expressive DIY companion robots with Arduino and compatible microcontrollers.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/Dumirror_Robo/4d8732357fca43e7da1d9d40e786dab11110a815/images/animations/sneeze.gif" alt="Dumirror_Robo sneeze animation" width="260"/>
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/Dumirror_Robo/4d8732357fca43e7da1d9d40e786dab11110a815/images/animations/heartbeat.gif" alt="Dumirror_Robo heartbeat animation" width="260"/>
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/Dumirror_Robo/4d8732357fca43e7da1d9d40e786dab11110a815/images/animations/blink.gif" alt="Dumirror_Robo blink animation" width="260"/>
+  <br>
+  <sub>Animated expressions, built frame by frame.</sub>
+</p>
+
+<p align="center">
+  <b>😍 Give your robot a personality  try the library today!</b>
+  <br>
+  19 faces · 10 animations · endless personality. Clone it, flash it, and bring your robot to life.
+</p>
+
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/Dumirror_Robo">
+    <img src="https://img.shields.io/badge/⭐%20View%20on%20GitHub-Dumirror_Robo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Dumirror_Robo on GitHub"/>
+  </a>
+  <a href="https://VIDAKHOSHPEY22.github.io/Dumirror_Robo/">
+    <img src="https://img.shields.io/badge/Live%20Gallery-Explore%20the%20Faces-8B5CF6?style=for-the-badge" alt="Live Gallery"/>
+  </a>
+  <a href="https://youtube.com/shorts/KHJu6yjl5UQ?si=UCTxdlIKvH-6HVmy">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20the%20Demo-red?style=for-the-badge&logo=youtube" alt="Watch the Demo on Youtube"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"/></a>
+  <img src="https://img.shields.io/badge/version-1.1.0-8B5CF6" alt="Version 1.1.0"/>
+  <img src="https://img.shields.io/badge/static%20faces-19-8B5CF6" alt="19 Static Faces"/>
+  <img src="https://img.shields.io/badge/animations-10-EC4899" alt="10 Animations"/>
+  <img src="https://img.shields.io/badge/architectures-AVR%20%7C%20ESP32%20%7C%20ESP8266%20%7C%20RP2040-00979D" alt="Supported Architectures"/>
+</p>
+
+</div>
+
+---
+
 <div align="center">
   
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
